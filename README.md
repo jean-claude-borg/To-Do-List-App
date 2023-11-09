@@ -35,3 +35,7 @@ A search screen is opened if the search icon in the bottom navigator is pressed.
 The settings screen allows the user to change between a light theme and a dark theme. This is where the default view style for the projects on the home screen is also chosen(list or card view). The username and email fields are placeholders for a possible future backend integration, allowing the user to create an account. The theme updates live, as soon as the user toggles the switch, therefore not requiring a restart. The settings are persistent, meaning that they are saved and loaded when the application starts.
 
 ![Alt Text](Screenshots/SettingsScreen.JPG)
+
+## Dark Theme
+
+![Alt Text](Screenshots/darkTheme.jpg)
