@@ -1,6 +1,6 @@
 # To Do List
 
-A To Do List app for Android and IOS. Built using react native and expo. The react-native-paper library was used for the ui. 
+A to do list app for Android and IOS. Built using react native and expo. The react-native-paper library was used for the ui. 
 
 Demo Video: https://drive.google.com/file/d/11gUaws_dlMwSYSmsD1c6GEVjs1G-eBLq/view?usp=sharing
 
